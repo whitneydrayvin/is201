@@ -1,0 +1,11 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.diff-bg{
+    background-color: darkred !important;
+}
+
+.diff-circle{
+    background-color: white !important;
+}
